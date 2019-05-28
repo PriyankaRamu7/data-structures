@@ -14,9 +14,6 @@ public class MemorizeMe {
 		intList.forEach(i -> i++);
 		System.out.println(intList);
 	}
-	
-	public void memorizeProblem() {
-		
-	}
+
 }
  
