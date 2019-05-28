@@ -44,8 +44,5 @@ public class java8Streams {
 		System.out.println(l1.hashCode());
 		//l1.add("c"); 
 	}
-	
-	public void example() {
-		
-	}
+
 }
