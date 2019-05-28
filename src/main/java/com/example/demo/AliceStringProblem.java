@@ -15,4 +15,8 @@ public class AliceStringProblem {
 		}
 		System.out.println(sum);
 	}
+	
+	public void aliceStringProblem() {
+		System.out.println("Third Commit");
+	}
 }

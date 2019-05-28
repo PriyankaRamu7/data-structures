@@ -14,9 +14,15 @@ public class MemorizeMe {
 		intList.forEach(i -> i++);
 		System.out.println(intList);
 	}
+<<<<<<< Updated upstream
 	
 	public void memorizeProblem() {
 		System.out.println("Second commit");
+=======
+
+	public void memorizeMe() {
+		System.out.println("Third Commit");
+>>>>>>> Stashed changes
 	}
 }
  
